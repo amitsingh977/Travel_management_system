@@ -22,9 +22,7 @@ public class DestinationTest {
         Destination destination = new Destination("Test Destination");
         Activity activity = new Activity("Test Activity", "Description", 50.0, 10, destination);
 
-        //destination.addEnrolledActivity(activity);
 
-        // Add assertions based on the expected behavior
     }
 
 

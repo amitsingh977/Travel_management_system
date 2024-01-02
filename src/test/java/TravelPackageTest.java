@@ -25,7 +25,5 @@ public class TravelPackageTest {
 
         assertTrue(travelPackage.getPassengers().contains(passenger));
     }
-
-    // Add more test cases for other methods in TravelPackage class
 }
 
